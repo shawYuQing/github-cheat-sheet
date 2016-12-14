@@ -4,7 +4,7 @@ Git 和 Github 秘籍，灵感来自于 [Zach Holman](https://github.com/holman)
 *其他语言版本: [English](README.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md).*
 
 # 目录
-  - [GitHub](#github)
+  - [GitHub1](#github)
     - [不比较空白字符](#不比较空白字符)
     - [调整 Tab 字符所代表的空格数](#调整-tab-字符所代表的空格数)
     - [查看某个用户的 Commit 历史](#查看某个用户的-commit-历史)
